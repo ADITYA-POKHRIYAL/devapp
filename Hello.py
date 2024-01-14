@@ -1,5 +1,4 @@
 # Import necessary libraries
-pip install streamlit plotly matplotlib
 import streamlit as st
 import pandas as pd
 import numpy as np
